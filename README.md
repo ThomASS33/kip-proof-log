@@ -1,5 +1,5 @@
-Kip-69 .proof of Kode
-Welcome to the living ledger of Kip-69 — a cryptographic journey through pixel glyphs, protocol seeds, and .proof of digital expression.
+kip-69 .proof of Kode
+Welcome to the living ledger of kip-69 — a cryptographic journey through pixel glyphs, protocol seeds, and .proof of digital expression.
 
 This repository holds the ongoing .proof of Kode (.proofK): every commit, every update, every refactor is a signal laid bare — not just to ship, but to show.
 
