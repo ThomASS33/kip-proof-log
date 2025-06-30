@@ -1,0 +1,11 @@
+[
+  {
+    "entryId": "T3ST-0001",
+    "author": "The Blind Dev",
+    "timestamp": "2025-06-29T20:26:00Z",
+    "title": "Initial Test Entry",
+    "summary": "This is a test record from The Blind Dev to verify the log ingestion and display functionality.\nNo secrets here, just testing the waters.\nBlind eyes, open mind.",
+    "artifacts": [],
+    "status": "testing"
+  }
+]
