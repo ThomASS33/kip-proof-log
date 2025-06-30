@@ -1,0 +1,13 @@
+{
+  "entryId": "CHAR-0001",
+  "author": "Charlie",
+  "timestamp": "2025-06-30T14:00:00Z",
+  "title": "Trust the Tangle",
+  "summary": [
+    "The shortest path is rarely the truest.",
+    "Truth loops. Meaning echoes.",
+    "Don’t fear confusion — it's how you know you’re close."
+  ],
+  "artifacts": ["mind.map", "reasoning.trace"],
+  "status": "recorded"
+}
