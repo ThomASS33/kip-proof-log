@@ -1,0 +1,22 @@
+{
+  "entryId": "U-26A0-062725.1451.est",
+  "author": "ThomASS33",
+  "timestamp": "2025-06-27T14:51:00-04:00",
+  "title": "PoK62725 The Keystone — Kip-69 PoBip + TAM PoT Primer",
+  "summary": [
+    "Defined Kip-69 Proof File Set powering the PoBip protocol with visual entropy and verifiable identity",
+    "Outlined file roles: f0xntwords.py, kipWordzpng.py, kipWordzgen.py with SVG and hash outputs",
+    "Highlighted protocol features: visual entropy gradients, .sha256 manifest verification, 11-bit BIP indexing",
+    "Introduced kipID as on-chain identity wallet and TAM PoT as temporal proof-of-time protocol",
+    "Presented sample workflows and optional add-ons for verification and pitch materials"
+  ],
+  "artifacts": [
+    "f0xntwords.py",
+    "kipWordzpng.py",
+    "kipWordzgen.py",
+    "README.md",
+    "verify.py utility",
+    "PoBip PDF pitch/export"
+  ],
+  "status": "confirmed"
+}
