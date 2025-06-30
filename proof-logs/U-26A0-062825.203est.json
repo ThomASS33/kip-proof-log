@@ -1,0 +1,23 @@
+{
+  "entryId": "U-26A0-062825.203est",
+  "author": "ThomASS33",
+  "timestamp": "2025-06-28T20:03:00-04:00",
+  "title": "Kip-69 Recenter + TAM PoT Primer",
+  "summary": [
+    "Defined `kipID` as on-chain presence & identity witness",
+    "Outlined `TAM PoT` (Time As Mine) for attention-bound proof of intent",
+    "Documented entropy toolchain: `f0xntwords.py`, `kipWordzpng.py`, `kipWordzgen.py`",
+    "Verified hash manifest, gradient metadata, and BIP-index encoding",
+    "Introduced shard → steward → bloom flow as social-verification mechanism",
+    "Declared deterministic formula: `potHash = hash(wallet + kipID + timestamp + nonce)`"
+  ],
+  "artifacts": [
+    "f0xntwords.py",
+    "kipWordzpng.py",
+    "kipWordzgen.py",
+    "PoK entropy manifest (`proof.json`, `kipID.json`)",
+    "TAM PoT hash formula + identity design",
+    "kipID shard logic flow"
+  ],
+  "status": "confirmed"
+}
